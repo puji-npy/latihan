@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "title": "Introduction to Programming",
+        "description": "Learn the basics of programming using Python.",
+        "duration": "4 weeks",
+        "level": "Beginner",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Getting Started with Python",
+                "duration": "1 hour"
+            },
+            {
+                "id": 2,
+                "title": "Variables and Data Types",
+                "duration": "1 hour"
+            },
+            {
+                "id": 3,
+                "title": "Control Structures",
+                "duration": "1.5 hours"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Web Development Fundamentals",
+        "description": "An introduction to HTML, CSS, and JavaScript.",
+        "duration": "6 weeks",
+        "level": "Intermediate",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "HTML Basics",
+                "duration": "1 hour"
+            },
+            {
+                "id": 2,
+                "title": "CSS Styling",
+                "duration": "1.5 hours"
+            },
+            {
+                "id": 3,
+                "title": "JavaScript Essentials",
+                "duration": "2 hours"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Data Science with R",
+        "description": "Explore data analysis and visualization using R.",
+        "duration": "8 weeks",
+        "level": "Advanced",
+        "lessons": [
+            {
+                "id": 1,
+                "title": "Introduction to R",
+                "duration": "1 hour"
+            },
+            {
+                "id": 2,
+                "title": "Data Manipulation with dplyr",
+                "duration": "1.5 hours"
+            },
+            {
+                "id": 3,
+                "title": "Data Visualization with ggplot2",
+                "duration": "2 hours"
+            }
+        ]
+    }
+]
